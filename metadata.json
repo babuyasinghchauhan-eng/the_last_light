@@ -1,0 +1,6 @@
+{
+  "name": "The Last Light",
+  "description": "An offline AI memory keeper and digital ofrenda powered by in-browser open-weight models.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
